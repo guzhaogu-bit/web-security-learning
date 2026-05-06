@@ -108,8 +108,3 @@ SELECT * FROM Users WHERE email = 'acc0unt4nt@juice-sh.op' UNION SELECT ... -- '
 · 双因素认证绕过
 
 ```
-
----
-
-直接复制上面的内容保存即可。需要我把之前的 `Christmas Special` 或 `Easter Egg` 也整理成这种可直接复制的文本吗？
-```
